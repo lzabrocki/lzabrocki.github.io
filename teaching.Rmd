@@ -1,0 +1,109 @@
+---
+title: "Teaching"
+description: |
+  Previous and Current Courses Taught.
+output: 
+    distill::distill_article:
+      toc: true
+      toc_depth: 3
+---
+
+<style>
+body {
+text-align: justify}
+</style>
+
+On this page, you will find short description of the courses I am currently teaching and that I have previously taught.
+
+# Introduction to Economics for Science Students
+
+[Ecole Normale Supérieure (Ulm)](https://cpes.psl.eu/), Graduate Level, 2022 <br> Main Instructor, 24 hours of teaching
+
+The goal of this course is to introduce students from scientific tracks to empirical research in economics. The course organized as follows:
+
+* The first class is a very short introduction to the history of the field.
+* In the three following classes, the causal inference revolution is explained with in details. 
+* In the rest of the course, each class focuses a particular theme of research (inequalities, climate change, education, crime, etc...) and ends in the preoccupation of flagship study.
+
+By the end of the course, students will have a good understanding on how economists can help craft better public policies on the most pressing social issues. 
+
+
+# Introduction to Microeconomics
+
+[Ecole Normale Supérieure (Ulm)](https://cpes.psl.eu/), Undergraduate Level, 2022 <br> TA, 24 hours of teaching
+
+I am the teaching assistant for the introduction to microeconomics taught by Fanny Henriet (CNRS-PSE). Each session is devoted to the correction of exercises on specific topics (general equilibirum, game theory, public economics...).
+
+# Introduction to Economic Research
+
+[Ecole Normale Supérieure (Ulm)](https://cpes.psl.eu/), Undergraduate Level, 2022 <br> Main Instructor, 24 hours of teaching
+
+The goal of this course is to introduce first year students to economic research. For each session, the first hour is devoted to the presentation of a research article and in the second hour, a PhD student presents his own research. The course is highly interactive and requires students to read and prepare questions on two research articles per week. The course is jointly taugth with Gilles Saint-Paul (ENS-PSE).
+
+
+# Introduction to Causal Inference: The Design and Analysis of Randomized Experiments
+
+[CPES -PSL University](https://cpes.psl.eu/), Undergraduate Level, 2020-2021 <br> Main Instructor, 64 hours of teaching
+
+Did a job search intervention increase labor force participation? Has an advertisement
+campaign increased consumer loyalty? Does a new vaccine protect from a
+virus ? In this year-long course, you will understand why randomized controlled
+trials are considered as the most rigorous method for answering the previous questions.
+You will learn the theoretical foundation, the statistical techniques, and programming
+skills to analyze randomized experiments. The course draws on a variety
+of concrete examples to make the materials as intuitive as possible. Priority is given
+to the implementation of concepts in the R programming language over mathematical
+formulas. By the end of the academic year, you will be able to critically evaluate
+and reproduce results from published articles.
+
+In the first semester, you will be introduced to the Neyman-Rubin causal model, a
+simple yet powerful framework for thinking about causality. The sessions will cover
+the design of several types of treatment allocation (i.e., complete, cluster, block and
+pair designs) and randomization-based inference techniques, which provide an intuitive
+introduction to statistical inference. We will also learn the repeated sampling
+approach developed by Neyman. Issues related the adoption of treatment by
+treated and control units (i.e., one-sided and two-sided noncompliance problems)
+will . All concepts will be illustrated with concrete examples drawn from results of
+randomized experiments published in various disciplines such as Economics, Political
+Science, Psychology or Medicine.
+
+In the second semester, the sessions will be devoted to the replication of a published
+randomized experiment. In the first five classes, you will develop new skills
+in data wrangling, visualization, and project management workflow. You will learn
+how to make your analysis fully reproducible by an external person. The rest of
+the courses will guide you towards the replication of an experiment that you will have chosen. You will also be required to test the robustness of the results found by researchers.
+
+The course follows closely the textbook Field Experiments: Design, Analysis, and Interpretation
+written by Gerber and Green (2012), with additional inputs from three
+other textbooks (Imbens and Rubin 2015, Rosenbaum 2010 & 2017). I have drafted
+detailed notes which summarize all key points. These notes must be read before the
+lectures to take full advantage of them. A selection of materials from a previous iteration
+of this course at PSL University is available at https://tinyurl.com/6ew2hx9e.
+
+
+# Introduction to Linear Regression 
+
+[CPES -PSL University](https://cpes.psl.eu/), Undergraduate Level, 2019-2020 <br> TA Instructor, 30 hours of teaching
+
+This course is intended to give you the basic tools for your econometric toolkit. This will allow
+students to begin testing out economic models with data. The course will provide an introduction
+to classical linear regression analysis, construction of confidence intervals, hypothesis testing,
+validation of main assumptions and provide corrections in case any of the assumptions are
+violated.
+
+After having attended class, the students will have proper basics of:
+
+- Econometric theory: students with know and be able to use linear regression models for
+economic purposes.
+- Interpretation of econometric models: based on econometric theory, students will be able
+to understand the econometric output provided by academic and non-academic research.
+Students will also be able to provide critical comments about the quality of the empirical
+work.
+- Empirical work: students will learn how to implement regression models using the R programming language.
+
+# Introduction to Programming for Social Sciences 
+
+[CPES -PSL University](https://cpes.psl.eu/), Undergraduate Level, 2018-2019 <br> Main Instructor, 45 hours of teaching
+
+The course is an introduction to programming for students in the social sciences track. In the first part of the course, students learn the basics of data wrangling and data visualization using the R programming language. The learning of R is made easier through the RStudio IDE and the Tidyverse packages. In the second part, students find an existing dataset on a topic of their interest and carry out a full exploratory data analysis.
+

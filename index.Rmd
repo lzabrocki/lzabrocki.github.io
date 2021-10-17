@@ -1,0 +1,43 @@
+---
+title: "Léo Zabrocki"
+image: "images/retro_leo_picture.jpg"
+links:
+  - label: <i id="icons" class="fas fa-envelope big-icon"></i>
+    url: "mailto:leo.zabrocki@gmail.com"
+  - label: <i id="icons" class="fab fa-github big-icon"></i>
+    url: "https://github.com/lzabrocki"
+output:
+  postcards::trestles
+site: distill::distill_website
+---
+
+```{css echo=FALSE}
+html {
+    overflow-y: hidden;
+}
+
+h1 {
+  color: #0471a6;
+}
+
+.p-3 img {
+  // border: 1px solid black;
+  border-radius:80%!important;
+}
+```
+
+<DIV align="justify">
+
+# About Me
+I am currently a PhD student at the [Paris School of Economics](https://www.parisschoolofeconomics.eu/en/) and a teaching fellow at the [École Normale Supérieure](https://www.ens.psl.eu/en). My PhD supervisor is [Hélène Ollivier](https://sites.google.com/site/heleneollivier/) (CNRS-PSE). 
+
+<span style="color:#0471a6">**I am currently on the job market.**</span>
+
+My thesis focuses on improving causal inference methods to better measure the effects of air pollution on health. I am particularly interested in matching procedures and randomization-based inference. I enjoy programming in R and I am always looking for new ways to improve my data visualization skills.
+
+In my job market paper with [Vincent Bagilet](https://vincentbagilet.github.io/) (PhD student, Columbia University), we explore how several causal inference methods perform to estimate the effects of air pollution on short-term mortality and morbidity. Specifically, we use simulations to understand why research designs could be under-powered and thereby produce inflated estimates. We propose simple recommendations to take into account statistical power issues. 
+
+</DIV>
+
+
+
