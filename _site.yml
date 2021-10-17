@@ -4,6 +4,7 @@ theme: theme.css
 description: |
   My Website
 output_dir: "."
+base_url: https://leozabrocki.github.io/
 navbar:
   logo:
     image: images/favicon_books.png
