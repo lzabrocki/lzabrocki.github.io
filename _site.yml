@@ -3,7 +3,7 @@ title: "Leo Zabrocki"
 theme: theme.css
 description: |
   My Website
-output_dir: "_site"
+output_dir: "."
 navbar:
   logo:
     image: images/favicon_books.png
