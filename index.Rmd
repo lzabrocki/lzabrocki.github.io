@@ -1,6 +1,6 @@
 ---
 title: "Léo Zabrocki"
-image: "images/retro_leo_picture.jpg"
+image: "images/picture_leo.jpg"
 links:
   - label: <i id="icons" class="fas fa-envelope big-icon"></i>
     url: "mailto:leo.zabrocki@gmail.com"
