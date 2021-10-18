@@ -12,10 +12,6 @@ site: distill::distill_website
 ---
 
 ```{css echo=FALSE}
-html {
-    overflow-y: hidden;
-}
-
 h1 {
   color: #0471a6;
 }
