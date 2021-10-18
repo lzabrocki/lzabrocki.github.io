@@ -12,6 +12,14 @@ site: distill::distill_website
 ---
 
 ```{css echo=FALSE}
+a:link {
+  color: #0471a6;
+}
+
+a:hover {
+  color: #f4a261;
+}
+
 h1 {
   color: #0471a6;
 }
