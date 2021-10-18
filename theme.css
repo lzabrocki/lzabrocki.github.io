@@ -92,6 +92,12 @@ a:hover {
   color: #f4a261;
 }
 
+
+a:visited {
+  color: #0471a6;
+}
+
+
 /* Buttons on home page */
 
 .btn-outline-dark {

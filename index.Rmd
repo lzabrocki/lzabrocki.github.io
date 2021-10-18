@@ -20,6 +20,10 @@ a:hover {
   color: #f4a261;
 }
 
+a:visited {
+  color: #0471a6;
+}
+
 h1 {
   color: #0471a6;
 }
