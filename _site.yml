@@ -6,8 +6,6 @@ description: |
 output_dir: "."
 base_url: https://leozabrocki.github.io/
 navbar:
-  logo:
-    image: images/favicon_books.png
   right:
     - text: "Home"
       href: index.html

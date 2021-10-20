@@ -82,10 +82,6 @@ Below is a list of works for which drafts will be available in early 2022.
 
 with Vincent Bagilet.
 
-```{r, echo = FALSE, fig.align="center"}
-knitr::include_graphics("images/vincent_meme.png")
-```
-
 In this project, we illustrate with simple fake-data simulations why the
 trade-off between omitted variable bias and Type M error should be more systematically
 into account. In some contexts, the omitted variable bias can be relatively small. If

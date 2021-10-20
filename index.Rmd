@@ -43,7 +43,7 @@ I am currently a PhD student at the [Paris School of Economics](https://www.pari
 
 My thesis focuses on improving causal inference methods to better measure the effects of air pollution on health. I am particularly interested in matching procedures and randomization-based inference. I enjoy programming in R and I am always looking for new ways to improve my data visualization skills.
 
-In my job market paper with [Vincent Bagilet](https://vincentbagilet.github.io/) (PhD student, Columbia University), we explore how several causal inference methods perform to estimate the effects of air pollution on short-term mortality and morbidity. Specifically, we use simulations to understand why research designs could be under-powered and thereby produce inflated estimates. We propose simple recommendations to take into account statistical power issues. 
+In my job market paper co-authored with [Vincent Bagilet](https://vincentbagilet.github.io/) (PhD student, Columbia University), we explore how several causal inference methods perform to estimate the effects of air pollution on short-term mortality and morbidity. Specifically, we use simulations to understand why research designs could be under-powered and thereby produce inflated estimates. We propose simple recommendations to take into account statistical power issues. 
 
 </DIV>
 
