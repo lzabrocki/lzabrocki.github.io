@@ -1,6 +1,6 @@
 ---
 title: "Léo Zabrocki"
-image: "images/picture_leo.jpg"
+image: "images/picture_leo_circle.png"
 links:
   - label: <i id="icons" class="fas fa-envelope big-icon"></i>
     url: "mailto:leo.zabrocki@gmail.com"
@@ -26,11 +26,6 @@ a:visited {
 
 h1 {
   color: #0471a6;
-}
-
-.p-3 img {
-  // border: 1px solid black;
-  border-radius:80%!important;
 }
 ```
 

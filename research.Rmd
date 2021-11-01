@@ -21,24 +21,27 @@ with [Vincent Bagilet](https://vincentbagilet.github.io/) (PhD student, Columbia
 knitr::include_graphics("images/jmp.png")
 ```
 
-Precisely measuring the short-term effects of air pollution on health plays a
-key role in setting air quality standards. Yet, statistical power calculations are
-rarely—if ever—carried out. We first collect estimates and standard errors of all
-available articles found in the standard epidemiology and causal inference literatures.
-We find that nearly half of them may suffer from a low statistical power
-and could thereby produce statistically significant estimates that are actually
-inflated. We then run simulations based on real data to identify which parameters
-of research designs affect statistical power. Despite their large sample sizes,
-we show that studies exploiting rare exogenous shocks such as transport strikes
-or thermal inversions could have a very low statistical power, even for plausibly
-large effect sizes. Our simulation results indicate that the observed discrepancy
-in the literature between instrumental variable estimates and non-causal
-ones could be partly explained by the inherent imprecision of the two-stage
-least-squares estimator. We also provide evidence that subgroup analysis on
-the elderly or children should be implemented with caution since the average
-number of events for an health outcome is a major driver of power. Based on
-these findings, we build a series of recommendations for researchers to evaluate
-the design of their study with respect to statistical power issues.
+Accurate and precise measurements of the short-term effects of air pollution on
+health play a key role in setting air quality standards. Yet, statistical power
+calculations are rarely—if ever—carried out. We first collect estimates and
+standard errors of all available articles found in the standard epidemiology
+and economics literatures. We find that nearly half of them may suffer from
+a low statistical power and could thereby produce statistically significant estimates
+that are actually inflated. We then run simulations based on real data to
+identify which parameters of research designs affect statistical power. Despite
+their large sample sizes, we show that studies exploiting rare exogenous shocks
+such as transport strikes or thermal inversions could have a very low statistical
+power, even for plausibly large effect sizes. Our simulation results indicate
+that the observed discrepancy in the literature between instrumental variable
+estimates and non-causal ones could be partly explained by the inherent imprecision
+of the two-stage least-squares estimator. We also provide evidence that
+subgroup analysis on the elderly or children should be implemented with caution
+since the average number of events for an health outcome is a major driver
+of power. Based on these findings, we build a series of recommendations for researchers
+to evaluate the design of their study with respect to statistical power
+issues.
+
+Click [here](job_market_paper.pdf) to download the most recent version of the paper. Replication materials and additional results can be found on this [website](https://vincentbagilet.github.io/inference_pollution/).
 
 # Estimating the Causal Effects of Cruise Traffic on Air Pollution using Randomization-Based Inference 
 

@@ -76,9 +76,7 @@ the courses will guide you towards the replication of an experiment that you wil
 The course follows closely the textbook Field Experiments: Design, Analysis, and Interpretation
 written by Gerber and Green (2012), with additional inputs from three
 other textbooks (Imbens and Rubin 2015, Rosenbaum 2010 & 2017). I have drafted
-detailed notes which summarize all key points. These notes must be read before the
-lectures to take full advantage of them. A selection of materials from a previous iteration
-of this course at PSL University is available at https://tinyurl.com/6ew2hx9e.
+detailed notes which summarize all key points. These notes must be read before the lectures to take full advantage of them.
 
 
 # Introduction to Linear Regression 
