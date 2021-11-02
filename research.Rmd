@@ -43,7 +43,7 @@ issues.
 
 Click [here](job_market_paper.pdf) to download the most recent version of the paper. Replication materials and additional results can be found on this [website](https://vincentbagilet.github.io/inference_pollution/).
 
-# Estimating the Causal Effects of Cruise Traffic on Air Pollution using Randomization-Based Inference 
+# Air Pollution Impacts of Maritime Traffic: A New Method based on Observational Data and Randomization-Based Inference
 
 with [Marion Leroutier](https://marionleroutier.weebly.com/) (Misum, Stockholm School of Economics) & [Marie-Abèle Bind](https://scholar.harvard.edu/marie-abele/home) (Massachusetts General Hospital), Working Paper submitted.
 
@@ -51,9 +51,9 @@ with [Marion Leroutier](https://marionleroutier.weebly.com/) (Misum, Stockholm S
 knitr::include_graphics("images/marseille_project.png")
 ```
 
-Local environmental organizations and media have recently expressed concerns over air pollution induced by maritime traffic and its potential adverse health effects on the population of Mediterranean port cities. We explore this issue with unique high-frequency data from Marseille, France's largest port for cruise ships, over the 2008-2018 period. Using a new pair-matching algorithm designed for time series data, we create hypothetical randomized experiments and estimate the variation in air pollutant concentrations caused by a short-term increase in cruise vessel traffic. We carry out a randomization-based approach to compute 95\% Fisherian intervals (FI) for constant treatment effects consistent with the matched data and the hypothetical intervention. At the hourly level, cruise vessels' arrivals increase concentrations of nitrogen dioxide (NO$_{2}$) by 4.7 µg/m$^3$ (95\% FI: [1.4, 8.0]), of sulfur dioxide (SO$_{2}$) by 1.2 µg/m$^3$ (95\% FI: [-0.1, 2.5]), and of particulate matter (PM$_{10}$) by 4.6 µg/m$^3$ (95\% FI: [0.9, 8.3]). At the daily level, cruise traffic increases concentrations of NO$_{2}$ by 1.2 µg/m$^3$ (95\% FI: [-0.5, 3.0]) and of PM$_{10}$ by 1.3 µg/m$^3$ (95\% FI: [-0.3, 3.0]). Our results suggest that well-designed hypothetical randomized experiments provide a principled approach to better understand the negative externalities of maritime traffic.
+The air pollution and health effects of cruise vessel traffic is a growing concern in the Mediterranean area. We propose a novel methodology based on high-frequency observational data to estimate the causal effects of maritime traffic on pollution. We apply this method to cruise traffic in Marseille, a large Mediterranean port city. Using a new pair-matching algorithm designed for time series data, we create hypothetical randomized experiments and estimate the change in air pollution caused by a short-term increase in cruise traffic. We carry out a randomization-based approach to quantify uncertainty and compute 95\% Fisherian intervals (FI) consistent with the matched data. Cruise vessels' arrivals increase city-level hourly concentrations of nitrogen dioxide (NO$_{2}$) by 4.7 \si{\ugpcm} (95\% FI: [1.4, 8.0]) and particulate matter (PM$_{10}$) by 4.6 \si{\ugpcm} (95\% FI: [0.9, 8.3]). At the daily level, one cruise vessel entering the port increases daily NO$_{2}$ concentrations by 2.3 \si{\ugpcm} (95\% FI: [0.1, 4.6]). Our results suggest that well-designed hypothetical randomized experiments provide a principled approach to better understand the negative externalities of maritime traffic.
 
-[Arxiv Preprint](https://arxiv.org/abs/2105.03996), [OSF Preprint](https://osf.io/v7ctk/), [Replication Materials](https://osf.io/v8aps/).
+[OSF Preprint](https://osf.io/v7ctk/), [Replication Materials](https://osf.io/v8aps/).
 
 # Measuring the Influence of Wind on Air Pollution Using a Causal Inference Pipeline
 
