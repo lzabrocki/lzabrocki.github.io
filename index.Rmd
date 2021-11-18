@@ -32,7 +32,7 @@ h1 {
 <DIV align="justify">
 
 # About Me
-I am currently a PhD student at the [Paris School of Economics](https://www.parisschoolofeconomics.eu/en/) and a teaching fellow at the [École Normale Supérieure](https://www.ens.psl.eu/en). My PhD supervisor is [Hélène Ollivier](https://sites.google.com/site/heleneollivier/) (CNRS-PSE). 
+I am currently a PhD candidate at the [Paris School of Economics](https://www.parisschoolofeconomics.eu/en/) and a teaching fellow at the [École Normale Supérieure](https://www.ens.psl.eu/en). My PhD supervisor is [Hélène Ollivier](https://sites.google.com/site/heleneollivier/) (CNRS-PSE). 
 
 <span style="color:#0471a6">**I am currently on the job market.**</span>
 
